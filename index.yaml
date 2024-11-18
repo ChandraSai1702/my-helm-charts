@@ -1,3 +1,14 @@
 apiVersion: v1
-entries: {}
-generated: "2024-11-18T15:23:30.555339367+05:30"
+entries:
+  todo-helmchart:
+  - apiVersion: v2
+    appVersion: 1.16.0
+    created: "2024-11-18T15:36:37.556310549+05:30"
+    description: A Helm chart for Kubernetes
+    digest: 4ae16f376c20561b27ee0847192d252f79d46c8b754295b147244ac379bd7b29
+    name: todo-helmchart
+    type: application
+    urls:
+    - https://chandrasai1702.github.io/my-helm-charts/todo-helmchart-0.1.0.tgz
+    version: 0.1.0
+generated: "2024-11-18T15:36:37.55549117+05:30"
